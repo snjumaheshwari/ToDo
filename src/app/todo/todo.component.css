@@ -1,0 +1,37 @@
+body {
+	padding : 100px;
+	padding-left : 200px;
+	padding-right : 200px;
+}
+
+.outer-box {
+	background-color : #dddcdc;
+	padding : 50px;
+}
+
+h1 {
+	text-align : center;
+}
+
+.abc {
+	width : 70%;
+	margin : 5px;
+	padding : 10px;
+
+}
+
+.btn {
+	margin : 5px;
+	padding : 10px;
+	width : 10%;
+}
+
+.list-item {
+	margin : 5px;
+	padding : 10px;
+	background-color : #f2efef;
+}
+
+.list-item .check {
+	margin-right : 10px;
+}
